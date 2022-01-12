@@ -1,0 +1,31 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Micsoft YaHei";
+  color: #333;
+  background-color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+  touch-action: pan-y;
+}
+
+h1,
+h2,
+p,
+ul {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+body,
+html,
+#root,
+.App {
+  height: 100%;
+}
